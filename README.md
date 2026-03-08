@@ -8,7 +8,7 @@ Lately I've been going down the AI rabbit hole and honestly... I don't think I'm
 
 - **Frontend:** React, React Native, TypeScript, Expo
 - **Backend:** Node.js, Express, MongoDB
-- **AI:** Gemini, Claude, building AI powered features into real products
+- **AI:** Claude, Codex, Gemini, building AI powered features into real products
 - **Always learning:** whatever's next
 
 ## When I'm not coding
