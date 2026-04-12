@@ -1,8 +1,6 @@
 # Hey, I'm Saif
 
-Software Engineer who lives on the frontend. React is my bread and butter.
-
-Lately I've been going down the AI rabbit hole and honestly... I don't think I'm coming back. Currently building apps that put AI to work in ways that actually make life easier (not just chatbots).
+Software Engineer focused on frontend and AI. I build with React and TypeScript daily, and I've been spending more and more time building AI-powered tools that solve real problems beyond chat interfaces.
 
 ## What I work with
 
